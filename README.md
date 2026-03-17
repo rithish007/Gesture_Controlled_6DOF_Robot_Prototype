@@ -21,10 +21,6 @@ This project presents a gesture-controlled 6-degree-of-freedom (6DOF) robotic ma
 - OpenCV
 - Arduino IDE
 
-### Installation
-git clone https://github.com/your-username/gesture-controlled-6dof-robot.git
-cd gesture-controlled-6dof-robot
-
 ### Install dependencies:
 pip install opencv-python numpy
 
